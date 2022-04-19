@@ -10,7 +10,7 @@ describe('site', function () {
      const productCard =  await productListPage.getProductCardsByName('Note8')  
      await productCard[0].addToCart()
 
-     await browser.pause(10000)
+     //await browser.pause(10000)
       
        
       
