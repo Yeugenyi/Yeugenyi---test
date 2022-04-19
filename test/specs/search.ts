@@ -27,17 +27,4 @@ let search=async function (searchProduct){
                 
 
             
-    //     })
-    //     for (let key in dataforsearch) {
-    //     it('must find a product/s '+key, async function () {
-      
    
-    //         assert((await search(key)).includes(dataforsearch[key]), key+'  gave wrong result')
-
-
-       
-      
-    //     })
-    // }
-    // })
-
